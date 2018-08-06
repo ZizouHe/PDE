@@ -6,4 +6,4 @@ This is a little memorable repository to cover the class materials in partial di
 
 Auther: He Li.
 
-清华大学数学系2018年春季偏微分方程课程笔记。
+清华大学数学系2018年春季偏微分方程课程笔记，[简怀玉老师](http://faculty.math.tsinghua.edu.cn/~hjian/)。
