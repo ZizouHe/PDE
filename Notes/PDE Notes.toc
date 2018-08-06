@@ -1,0 +1,80 @@
+\contentsline {section}{\numberline {1}课程简介}{4}{section.1}
+\contentsline {section}{\numberline {2}方程的建立与定解条件}{6}{section.2}
+\contentsline {subsection}{\numberline {2.1}质量守恒与连续性方程}{6}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}动量守恒与弦振动方程}{7}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}能量守恒与热传导方程}{9}{subsection.2.3}
+\contentsline {subsection}{\numberline {2.4}极小曲面及变分问题}{11}{subsection.2.4}
+\contentsline {section}{\numberline {3}波动方程}{14}{section.3}
+\contentsline {subsection}{\numberline {3.1}一阶偏微分方程的特征线方法}{14}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}非齐次方程的解法 - Duhamel原理}{15}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}一般维数波动方程Cauchy问题的解法}{17}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.4}Taylor弦振动方程的解法}{18}{subsection.3.4}
+\contentsline {subsection}{\numberline {3.5}波的传播}{19}{subsection.3.5}
+\contentsline {subsection}{\numberline {3.6}波方程的唯一性和稳定性}{20}{subsection.3.6}
+\contentsline {subsubsection}{\numberline {3.6.1}Gronwall不等式}{21}{subsubsection.3.6.1}
+\contentsline {subsubsection}{\numberline {3.6.2}能量方法}{22}{subsubsection.3.6.2}
+\contentsline {subsection}{\numberline {3.7}半无界问题的解法}{23}{subsection.3.7}
+\contentsline {subsection}{\numberline {3.8}高维波动方程的解法}{25}{subsection.3.8}
+\contentsline {subsubsection}{\numberline {3.8.1}球面平均法，$n=3$为例}{25}{subsubsection.3.8.1}
+\contentsline {subsubsection}{\numberline {3.8.2}降维法，以$n=2$为例}{27}{subsubsection.3.8.2}
+\contentsline {subsection}{\numberline {3.9}Sturm-Liouville问题}{28}{subsection.3.9}
+\contentsline {subsubsection}{\numberline {3.9.1}问题的提出}{28}{subsubsection.3.9.1}
+\contentsline {subsubsection}{\numberline {3.9.2}有解$\lambda $的必要条件}{29}{subsubsection.3.9.2}
+\contentsline {subsubsection}{\numberline {3.9.3}一些结论}{29}{subsubsection.3.9.3}
+\contentsline {subsubsection}{\numberline {3.9.4}定理(\ref {thm-character})}{30}{subsubsection.3.9.4}
+\contentsline {subsection}{\numberline {3.10}初边值问题的求解}{31}{subsection.3.10}
+\contentsline {subsubsection}{\numberline {3.10.1}初边值问题}{31}{subsubsection.3.10.1}
+\contentsline {subsection}{\numberline {3.11}初边值问题解的唯一性}{35}{subsection.3.11}
+\contentsline {subsubsection}{\numberline {3.11.1}能量守恒}{35}{subsubsection.3.11.1}
+\contentsline {subsubsection}{\numberline {3.11.2}能量方法}{35}{subsubsection.3.11.2}
+\contentsline {subsection}{\numberline {3.12}广义解}{37}{subsection.3.12}
+\contentsline {subsubsection}{\numberline {3.12.1}广义（弱）导数}{37}{subsubsection.3.12.1}
+\contentsline {subsubsection}{\numberline {3.12.2}广义解举例}{38}{subsubsection.3.12.2}
+\contentsline {section}{\numberline {4}热方程}{41}{section.4}
+\contentsline {subsection}{\numberline {4.1}Fourier变换}{41}{subsection.4.1}
+\contentsline {subsubsection}{\numberline {4.1.1}定义}{41}{subsubsection.4.1.1}
+\contentsline {subsubsection}{\numberline {4.1.2}性质}{42}{subsubsection.4.1.2}
+\contentsline {subsection}{\numberline {4.2}Poisson公式}{44}{subsection.4.2}
+\contentsline {subsubsection}{\numberline {4.2.1}Poisson公式的推导}{44}{subsubsection.4.2.1}
+\contentsline {subsubsection}{\numberline {4.2.2}Poisson核函数的性质}{45}{subsubsection.4.2.2}
+\contentsline {subsubsection}{\numberline {4.2.3}Poisson公式的证明}{46}{subsubsection.4.2.3}
+\contentsline {subsection}{\numberline {4.3}广义函数}{46}{subsection.4.3}
+\contentsline {subsubsection}{\numberline {4.3.1}广义函数的定义}{46}{subsubsection.4.3.1}
+\contentsline {subsubsection}{\numberline {4.3.2}广义函数的运算}{47}{subsubsection.4.3.2}
+\contentsline {subsubsection}{\numberline {4.3.3}广义函数的导数}{47}{subsubsection.4.3.3}
+\contentsline {subsection}{\numberline {4.4}热方程的基本解}{48}{subsection.4.4}
+\contentsline {subsection}{\numberline {4.5}半空间的解}{50}{subsection.4.5}
+\contentsline {subsection}{\numberline {4.6}初边值问题的解法}{50}{subsection.4.6}
+\contentsline {subsubsection}{\numberline {4.6.1}一维情况}{50}{subsubsection.4.6.1}
+\contentsline {subsubsection}{\numberline {4.6.2}高维情况}{52}{subsubsection.4.6.2}
+\contentsline {subsubsection}{\numberline {4.6.3}无穷衰减性质}{52}{subsubsection.4.6.3}
+\contentsline {subsubsection}{\numberline {4.6.4}验证定律}{52}{subsubsection.4.6.4}
+\contentsline {subsection}{\numberline {4.7}极值原理和最大模估计}{53}{subsection.4.7}
+\contentsline {subsubsection}{\numberline {4.7.1}初边值问题}{53}{subsubsection.4.7.1}
+\contentsline {subsubsection}{\numberline {4.7.2}热球}{54}{subsubsection.4.7.2}
+\contentsline {subsubsection}{\numberline {4.7.3}平均值定理}{55}{subsubsection.4.7.3}
+\contentsline {subsubsection}{\numberline {4.7.4}极值原理 revisit}{56}{subsubsection.4.7.4}
+\contentsline {subsubsection}{\numberline {4.7.5}最大模估计}{57}{subsubsection.4.7.5}
+\contentsline {subsection}{\numberline {4.8}柯西问题}{58}{subsection.4.8}
+\contentsline {subsection}{\numberline {4.9}能量估计及其推论}{60}{subsection.4.9}
+\contentsline {subsubsection}{\numberline {4.9.1}初边值问题：$\Omega \in \mathbb {R}^n$为有界开集}{60}{subsubsection.4.9.1}
+\contentsline {subsubsection}{\numberline {4.9.2}Cauchy问题：$Q = \mathbb {R}^n \times (0,T]$}{61}{subsubsection.4.9.2}
+\contentsline {section}{\numberline {5}Poisson方程}{63}{section.5}
+\contentsline {subsection}{\numberline {5.1}基本解}{63}{subsection.5.1}
+\contentsline {subsubsection}{\numberline {5.1.1}定义}{63}{subsubsection.5.1.1}
+\contentsline {subsubsection}{\numberline {5.1.2}形式推导}{63}{subsubsection.5.1.2}
+\contentsline {subsubsection}{\numberline {5.1.3}基本解的严格证明}{65}{subsubsection.5.1.3}
+\contentsline {subsubsection}{\numberline {5.1.4}Newman问题有解的必要条件}{66}{subsubsection.5.1.4}
+\contentsline {subsection}{\numberline {5.2}Green函数}{67}{subsection.5.2}
+\contentsline {subsubsection}{\numberline {5.2.1}Dirichlet问题}{67}{subsubsection.5.2.1}
+\contentsline {subsubsection}{\numberline {5.2.2}Newman问题}{68}{subsubsection.5.2.2}
+\contentsline {subsubsection}{\numberline {5.2.3}混合问题}{68}{subsubsection.5.2.3}
+\contentsline {subsubsection}{\numberline {5.2.4}Green函数的性质}{69}{subsubsection.5.2.4}
+\contentsline {subsubsection}{\numberline {5.2.5}半空间中的Green函数}{70}{subsubsection.5.2.5}
+\contentsline {subsubsection}{\numberline {5.2.6}球形区域的Green函数}{72}{subsubsection.5.2.6}
+\contentsline {subsection}{\numberline {5.3}极值原理与最大模估计(E. Hopf)}{74}{subsection.5.3}
+\contentsline {subsubsection}{\numberline {5.3.1}极值原理}{74}{subsubsection.5.3.1}
+\contentsline {subsubsection}{\numberline {5.3.2}极值原理之推论}{76}{subsubsection.5.3.2}
+\contentsline {subsubsection}{\numberline {5.3.3}最大模估计}{77}{subsubsection.5.3.3}
+\contentsline {subsection}{\numberline {5.4}能量估计}{79}{subsection.5.4}
+\contentsline {section}{\numberline {6}Homework}{80}{section.6}
